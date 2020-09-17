@@ -1,0 +1,134 @@
+h2{
+    font-size: xxx-large;
+    position: relative;
+    top: -92px;
+    margin-left: 273px;
+
+}
+.bigimg{
+    margin-left: 5cm;
+    width: 30cm;
+    height: 19cm;
+}
+nav{
+    position: relative;
+    top: -171px;
+    margin-left: 28cm;
+}
+section{
+    position: absolute;
+    left: 6cm;
+    top: 1px;
+}
+
+.line{
+    border: dotted;
+    border-color: dimgray;
+    height: 13px;
+    background-color: dimgray;
+    position: relative;
+    top: -3cm;
+    width: 31cm;
+
+}
+.footline{
+    border: dotted;
+    border-color: dimgray;
+    height: 13px;
+    background-color: dimgray;
+    position: relative;
+    top: -11cm;
+    width: 31cm;
+
+}
+
+h1{
+    font-family: 'Squada One', cursive;
+    margin-top: -2cm;
+    font-size: xxx-large;
+    margin-left: 6cm;
+}
+
+.logo{
+    margin-left: 6cm;
+}
+#paragraphs{
+
+    position: initial;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    font-size: larger;
+}
+.wara8a{
+    margin-left: 8cm;
+
+}
+.yameen{
+    position: relative;
+    left: -18cm;
+    top: -7cm;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.shmal{
+    position: relative;
+    left: -8cm;
+    top: -13cm;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.vanessa{
+    margin-left: 5cm;
+    position: relative;
+    top: -11cm;
+}
+
+h3{
+    position: relative;
+    top: -13cm;
+    color: darkgray;
+    font-size: xx-large;
+    margin-left: 7cm;
+}
+.lastP{
+    margin-left: 7cm;
+    position: relative;
+    top: -549px;
+    font-size: larger;
+    color: #8a8383;
+
+}
+
+button{
+    position: absolute;
+    top: 46cm;
+    left: 28cm;
+    height: 2cm;
+    width: 5cm;
+    background-color: darksalmon;
+    font-size: x-large;
+    font-family: monospace;
+    color: azure;
+}
+
+/* fieldset{
+    position: relative;
+    top: -5cm;
+} */
+
+.fooot{
+    margin-top: -1cm;
+    margin-left: 19cm;
+
+
+}
+.copyright{
+    text-align: center;
+    font-size: large;
+    color: grey;
+}
+footer{
+    margin-top: -7cm;
+}
