@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
 h2{
     font-size: xxx-large;
     position: relative;
     top: -92px;
     margin-left: 273px;
-    
+    font-family: 'Yellowtail', cursive;
+/* ================================== */
 
 }
 .bigimg{
@@ -11,16 +14,21 @@ h2{
     width: 30cm;
     height: 19cm;
 }
+/* ================================== */
+
 nav{
     position: relative;
     top: -171px;
     margin-left: 28cm;
 }
+/* ================================== */
+
 section{
     position: absolute;
     left: 6cm;
     top: 1px;
 }
+/* ================================== */
 
 .line{
     border: dotted;
@@ -32,6 +40,8 @@ section{
     width: 31cm;
 
 }
+/* ================================== */
+
 .footline{
     border: dotted;
     border-color: dimgray;
@@ -42,6 +52,8 @@ section{
     width: 31cm;
 
 }
+/* ================================== */
+
 
 h1{
     font-family: 'Squada One', cursive;
@@ -49,10 +61,14 @@ h1{
     font-size: xxx-large;
     margin-left: 6cm;
 }
+/* ================================== */
+
 
 .logo{
     margin-left: 6cm;
 }
+/* ================================== */
+
 #paragraphs{
 
     position: initial;
@@ -60,10 +76,14 @@ h1{
     margin-right: 5cm;
     font-size: larger;
 }
+/* ================================== */
+
 .wara8a{
     margin-left: 8cm;
 
 }
+/* ================================== */
+
 .yameen{
     position: relative;
     left: -18cm;
@@ -71,6 +91,7 @@ h1{
     font-size: x-large;
     font-family: cursive;
 }
+/* ================================== */
 
 .shmal{
     position: relative;
@@ -79,12 +100,14 @@ h1{
     font-size: x-large;
     font-family: cursive;
 }
+/* ================================== */
 
 .vanessa{
     margin-left: 5cm;
     position: relative;
     top: -11cm;
 }
+/* ================================== */
 
 h3{
     position: relative;
@@ -93,6 +116,8 @@ h3{
     font-size: xx-large;
     margin-left: 7cm;
 }
+/* ================================== */
+
 .lastP{
     margin-left: 7cm;
     position: relative;
@@ -101,6 +126,7 @@ h3{
     color: #8a8383;
 
 }
+/* ================================== */
 
 button{
     position: absolute;
@@ -113,23 +139,31 @@ button{
     font-family: monospace;
     color: azure;
 }
+/* ================================== */
 
-/* fieldset{
-    position: relative;
-    top: -5cm;
-} */
 
-.fooot{
+fieldset{
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    text-align: center;
+}
+/* ================================== */
+
+/* .fooot{
     margin-top: -1cm;
     margin-left: 19cm;
+} */
 
+/* ================================== */
 
-}
 .copyright{
     text-align: center;
     font-size: large;
     color: grey;
 }
+/* ================================== */
+
 footer{
     margin-top: -7cm;
 }
